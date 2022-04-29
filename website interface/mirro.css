@@ -1,0 +1,20 @@
+body {
+    /* font-family: 'Roboto', sans-serif;  */
+     font-family: 'Ubuntu', sans-serif; 
+    }
+   .ball {
+      list-style-type: none;
+      padding: 0px;
+      margin: 0px;
+      overflow: hidden;
+      }
+    li a {
+      display: block;
+      color: grey;
+      text-align: center;
+      text-decoration: none; 
+       padding: 10px 5px; 
+    }
+  li {
+      float: left;
+      } 
